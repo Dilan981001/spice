@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Black pepper",
+    "price": "47",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "../../public/black-milled-pepper-corns-as-background-high-quality-photo.jpg"
+  },
+  {
+    "name": "Cinneman",
+    "price": "66",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "../../public/cinnamon-sticks-background.jpg"
+  },
+  {
+    "name": "Citralan Puri Serang",
+    "price": "35",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "../../public/close-up-pumpkin-seeds.jpg"
+  },
+  {
+    "name": "Aliva Priva Jardin",
+    "price": "47",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "../../public/top-view-dried-cloves-with-wooden-spoon.jpg"
+  },
+  {
+    "name": "Asatti Garden City",
+    "price": "66",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "../../public/turmeric-powder (1).jpg"
+  },
+  {
+    "name": "Citralan Puri Serang",
+    "price": "35",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "../../public/heap-cloves.jpg"
+  }
+]
